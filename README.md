@@ -5,11 +5,6 @@ Simply type what you imagine, choose your art style, and generate realistic imag
 
 ---
 
-## 🚀 Live Demo
-🔗 [AI Image Generator](https://Arpit-Kumar-198.github.io/AI-IMAGE-GENERATOR)
-
----
-
 ## 🖼️ Features
 
 - ✍️ **Text-to-Image Generation** – Turn your imagination into visuals by entering a text prompt.  
