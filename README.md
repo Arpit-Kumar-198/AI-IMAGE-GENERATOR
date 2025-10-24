@@ -1,7 +1,7 @@
 # 🧠 AI Image Generator
 
-Create stunning AI-generated images from simple text descriptions using **Pollinations.ai** technology.  
-Type what you imagine, choose your style and settings, and generate beautiful visuals instantly.
+Create stunning images from text descriptions using **advanced AI technology**.  
+Simply type what you imagine, choose your art style, and generate realistic images in seconds.
 
 ---
 
