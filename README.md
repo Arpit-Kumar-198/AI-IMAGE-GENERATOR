@@ -24,7 +24,7 @@ Simply type what you imagine, choose your art style, and generate realistic imag
 ## 🧰 Technologies Used
 
 - ⚛️ **React.js** – For the frontend interface  
-- 🌈 **CSS / Tailwind / Bootstrap** (if applicable) – For styling and responsiveness  
+- 🌈 **CSS / Tailwind / Bootstrap** – For styling and responsiveness  
 - 🤖 **Pollinations.ai API** – For generating images from text prompts  
 - 🌐 **Fetch API / Axios** – For making API requests  
 
@@ -32,14 +32,19 @@ Simply type what you imagine, choose your art style, and generate realistic imag
 
 ## 📦 Installation & Setup
 
-Clone the repository:
+Follow these steps to run the project locally:
 
 ```bash
+# 1️⃣ Clone the repository
 git clone https://github.com/Arpit-Kumar-198/AI-IMAGE-GENERATOR.git
 cd AI-IMAGE-GENERATOR
 
-## Install dependencies:
+# 2️⃣ Install dependencies
 npm install
 
-## Start the app locally:
-npm start
+# 3️⃣ Start the app locally
+npm run dev
+
+# After running npm start, open your browser and go to:
+http://localhost:3000
+
