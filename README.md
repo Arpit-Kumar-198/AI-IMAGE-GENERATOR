@@ -5,6 +5,12 @@ Simply type what you imagine, choose your art style, and generate realistic imag
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Try it here:** [AI Image Generator (Live)](https://ai-image-generator-beta-puce.vercel.app/)
+
+---
+
 ## 🖼️ Features
 
 - ✍️ **Text-to-Image Generation** – Turn your imagination into visuals by entering a text prompt.  
@@ -40,6 +46,5 @@ npm install
 # 3️⃣ Start the app locally
 npm run dev
 
-# After running npm start, open your browser and go to:
+# After running, open your browser and go to:
 http://localhost:3000
-
